@@ -16,7 +16,6 @@
 using namespace std;
 
 using std::vector;
-using std::pair;
 
 //prototypes:
 void explore(vector<vector<int> > &adj, vector<bool> &adj_v, int x);
